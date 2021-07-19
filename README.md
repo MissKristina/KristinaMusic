@@ -1,6 +1,6 @@
 # Venom Music 
 
-<h1 align="centre">VENOM MUSIC  🎵</h1>
+<h1 align="centre">KristinaMusic💖</h1>
 
 
 
@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/647d8c3b4296711fb6119.jpg">
+  <img src="https://telegra.ph/file/cfc6690277c7e5e4f12fc.jpg">
 
 </p>
 
@@ -39,5 +39,5 @@
 
 ### 🎵 Heroku 🎵
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Team-Conans/VenomMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itzdipesh/KristinaMusic)
 
