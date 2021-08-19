@@ -2,6 +2,7 @@ import os
 from KristinaMusic.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
       START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      KRISTINA_IMG = "https://telegra.ph/file/210e97bbb6256916fcea3.jpg"
       HELP_MSG = [
         ".",
 f"""
