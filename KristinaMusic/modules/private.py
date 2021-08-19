@@ -15,14 +15,9 @@ def _start(client, message):
                 [
                     InlineKeyboardButton(
                         "α∂∂ мε тσ үσυя gяσυρ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-                [
-                    InlineKeyboardButton(
-                        "υρ∂αтεs", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                [                 
                     InlineKeyboardButton(
                         "sυρρσят", url=f"https://t.me/{SUPPORT_GROUP}")
-                ],[
-                    InlineKeyboardButton(
-                        "sσυяcε cσ∂εe", url=f"https://{SOURCE_CODE}")
                 ]
             ]
         ),
@@ -37,8 +32,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "sυρρσят", url=f"https://t.me/{SUPPORT_GROUP}"
-                    )
+                        "sυρρσят", url=f"https://t.me/{SUPPORT_GROUP}")
                 ]
             ]
         ),
