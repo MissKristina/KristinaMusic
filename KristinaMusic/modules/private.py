@@ -14,10 +14,10 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "α∂∂ мε тσ үσυя gяσυρ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [                 
                     InlineKeyboardButton(
-                        "sυρρσят", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}")
                 ]
             ]
         ),
