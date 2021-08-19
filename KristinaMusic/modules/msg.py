@@ -1,11 +1,11 @@
 import os
 from KristinaMusic.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      START_MSG = "**Hello 💝 [{}](tg://user?id={})!**\n\n💝 ᴛʜɪs ɪs ᴋʀɪsᴛɪɴᴀ ᴘʀɪᴠᴀᴛᴇ ᴍᴜsɪᴄ ʙᴏᴛ.ɪ ᴘʟᴀʏ ᴍᴜsɪᴄ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs.\n\n💝 sᴇɴᴅ ᴍᴇ /help ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ."
       HELP_MSG = [
         ".",
 f"""
-**Hey 👋 Welcome back to {PROJECT_NAME}
+**ʜᴇʏ 💝 ᴡᴇʟᴄᴏᴍᴇ ʙᴀᴄᴋ ᴛᴏ {PROJECT_NAME}
 
 ⚪️ {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
 
